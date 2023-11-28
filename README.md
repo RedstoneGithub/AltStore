@@ -1,3 +1,5 @@
+if you use this please change the timeouts to 80
+
 # AltStore
 
 > AltStore is an alternative app store for non-jailbroken iOS devices. 
